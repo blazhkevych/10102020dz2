@@ -160,7 +160,7 @@ namespace _10102020dz2
             {
                 for (int j = 0; j < m; j++)
                 {
-                    rand = Math.Round((random.NextDouble(-10.00, 10.00)), 2);
+                    rand = Math.Round((random.NextDouble(-110.34, 110.35)), 2);
                     arr2d[i, j] = rand;
                 }
             }
